@@ -1,0 +1,4 @@
+Things to do:
+- Learn Git basics
+- Practice making commits
+- Finish Lab 1
